@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#version 1
 # Default subnet if no argument is provided
 SUBNET=""
 
